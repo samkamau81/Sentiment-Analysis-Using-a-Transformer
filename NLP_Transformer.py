@@ -20,6 +20,6 @@ def classify_tweet(tweet):
     return 'positive' if predicted_sentiment == 1 else 'negative'
 
 
-tweet = "I just saw the new Marvel movie and it was amazing!"
+tweet = "I just saw John Wick, Chapter 4and it was amazing!" 
 sentiment = classify_tweet(tweet)
 print(sentiment)
