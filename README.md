@@ -1,4 +1,4 @@
-# TITLE : Sentiment-Analysis-Using-a-Transformer
+# TITLE : Sentiment Analysis Using a Transformer
 
 ## TABLE OF CONTENT
 - Project Description
