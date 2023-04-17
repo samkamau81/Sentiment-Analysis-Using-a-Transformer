@@ -2,10 +2,10 @@
 
 ## TABLE OF CONTENT
 - Project Description
-- How to Install and Run theproject
+- How to Install and Run the project
 - How to use the project 
-- Include Credit
-- Add a License
+- Credit
+- License
 - How to Contribute to the project
 - Tests
 
